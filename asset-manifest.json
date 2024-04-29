@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/etiquette-de-palette/static/css/main.02ad6756.css",
+    "main.js": "/etiquette-de-palette/static/js/main.53d971cb.js",
+    "static/js/453.931cb7f3.chunk.js": "/etiquette-de-palette/static/js/453.931cb7f3.chunk.js",
+    "index.html": "/etiquette-de-palette/index.html",
+    "main.02ad6756.css.map": "/etiquette-de-palette/static/css/main.02ad6756.css.map",
+    "main.53d971cb.js.map": "/etiquette-de-palette/static/js/main.53d971cb.js.map",
+    "453.931cb7f3.chunk.js.map": "/etiquette-de-palette/static/js/453.931cb7f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ad6756.css",
+    "static/js/main.53d971cb.js"
+  ]
+}
